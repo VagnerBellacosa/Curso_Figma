@@ -1,66 +1,67 @@
-# FIßGMA
+# FIGMA
 
-## Figma: uma nova ferramenta para design de interface que est· ganhando o mercado | Sirius Interativa
+## Figma: uma nova ferramenta para design de interface que est√° ganhando o mercado | Sirius Interativa
+
 ##### Sirius Interativa
 
-Qual ferramenta para design de interface web vocÍ usa? Muitos profissionais criam o conceito visual de sites no Photoshop, mas h· no mercado ferramentas com novas propostas que est„o ficando cada vez mais populares.
+Qual ferramenta para design de interface web voc√™ usa? Muitos profissionais criam o conceito visual de sites no Photoshop, mas h√° no mercado ferramentas com novas propostas que est√£o ficando cada vez mais populares.
 
-Aqui na Sirius, adotamos o Figma e convidamos a nossa equipe para compartilhar experiÍncias. Diego Costa (Tecnologia), F·bio Leal (Design), Henrique MarÁal (Design), Natasha Rijo (ComunicaÁ„o) e Nath·lia Machado (GerÍncia de Projetos) compıem o time que vai nos contar as percepÁıes no dia a dia de suas respectivas ·reas. Mas, antes de tudo, vamos apresent·-lo, caso vocÍ n„o conheÁa.
+Aqui na Sirius, adotamos o Figma e convidamos a nossa equipe para compartilhar experi√™ncias. Diego Costa (Tecnologia), F√°bio Leal (Design), Henrique Mar√ßal (Design), Natasha Rijo (Comunica√ß√£o ) e Nath√°lia Machado (Ger√™ncia de Projetos) comp√µem o time que vai nos contar as percep√ß√µes no dia a dia de suas respectivas √°reas. Mas, antes de tudo, vamos apresent√°-lo, caso voc√™ n√£o conhe√ßa.
 
-ìNuma Època em que de meses em meses pipocam novas aplicaÁıes de desenho para a web, marcando cada vez mais o fim do Photoshop no segmento, o Figma emergiu como a principal alternativa. A caracterÌstica que È o grande trunfo do Figma ó especialmente se vocÍ considerar a ferramenta que domina esse mercado, o Sketch, que È exclusivo do OSX ó È ser cross-platform (e isso incluindo o browser). Como curiosidade, ali·s, vale dizer que o Figma È capaz de abrir arquivos do Sketch.î F·bio Leal / Design
+Numa √©poca em que de meses em meses pipocam novas aplica√ß√µes de desenho para a web, marcando cada vez mais o fim do Photoshop no segmento, o Figma emergiu como a principal alternativa. A caracter√≠stica que √© o grande trunfo do Figma √© especialmente se voc√™ considerar a ferramenta que domina esse mercado, o Sketch, que √© exclusivo do OSX n√£o ser cross-platform (e isso incluindo o browser). Como curiosidade, ali√°s, vale dizer que o Figma √© capaz de abrir arquivos do Sketch. F√°bio Leal / Design
 
-O Figma È uma ferramenta de design de interface na qual todo o trabalho È feito atravÈs do navegador, logo ela È compatÌvel com Windows, Linux, Chrome e Mac.
+O Figma √© uma ferramenta de design de interface na qual todo o trabalho √© feito atrav√©s do navegador, logo ela √© compat√≠vel com Windows, Linux, Chrome e Mac.
 
-… multitarefa, ou seja, equipes multidisciplinares podem explorar o mesmo projeto juntas vendo as alteraÁıes em tempo real. Cada integrante pode acess·-la com o seu login e tudo isso È feito por um simples link.
+√â multitarefa, ou seja, equipes multidisciplinares podem explorar o mesmo projeto juntas vendo as altera√ß√µes em tempo real. Cada integrante pode acess√°-la com o seu login e tudo isso √© feito por um simples link.
 
 Confira as principais funcionalidades listadas pela nossa equipe:
 
-### VERSIONAMENTO AUTOM¡TICO NATIVO
+### VERSIONAMENTO AUTOM√ÅTICO NATIVO
 
-Com o Figma, n„o È mais necess·rio salvar diversas versıes de um projeto. F·bio, explica:
+Com o Figma, n√£o √© mais necess√°rio salvar diversas vers√µes de um projeto. F√°bio, explica:
 
-ìIsso significa o fim do ëvers„ofinalí, ëteste_2.0í, ëfinalizado copyí e toda a bagunÁa que isso causava. N„o h· mais medo em deletar telas e assets que vocÍ n„o precisa mais, mas que pode voltar a precisar.î
+Isso significa o fim do 'vers√£o final', 'teste_2.0', 'finalizado copy' e toda a bagun√ßa que isso causava. N√£o h√° mais medo em deletar telas e assets que voc√™ n√£o precisa mais, mas que pode voltar a precisar.
 
 ### BIBLIOTECA COMPARTILHADA E COMPONENTES
 
 O mesmo arquivo pode ser trabalhado por uma equipe inteira sem precisar de outras ferramentas.
 
-ìUm diferencial È a opÁ„o de compartilhar da mesma biblioteca que facilita a troca interna e externa de informaÁıes. ì, diz F·bio.
+Um diferencial √© a op√ß√£o de compartilhar da mesma biblioteca que facilita a troca interna e externa de informa√ß√µes. diz F√°bio.
 
-A ferramenta tambÈm torna mais f·cil a apresentaÁ„o de projetos que possuem uma lista de componentes como Ìcones e opÁıes de blocos de conte˙do. Natasha Rijo, da ComunicaÁ„o, acrescenta que essa funcionalidade È importante para que clientes possam entender o projeto:
+A ferramenta tamb√©m torna mais f√°cil a apresenta√ß√£o de projetos que possuem uma lista de componentes como √≠cones e op√ß√µes de blocos de conte√∫do. Natasha Rijo, da Comunica√ß√£o , acrescenta que essa funcionalidade √© importante para que clientes possam entender o projeto:
 
-ìCom um clique, conseguimos dar um panorama melhor de quais s„o os componentes do projeto e como o cliente pode trabalhar a estratÈgia do seu conte˙do. ì
+Com um clique, conseguimos dar um panorama melhor de quais s√£o os componentes do projeto e como o cliente pode trabalhar a estrat√©gia do seu conte√∫do.
 
-### OTIMIZA«√O DE TAREFAS
+### OTIMIZA√ß√£o DE TAREFAS
 
-ìMe identifiquei muito r·pido e percebi que todo esforÁo e tempo que gast·vamos antes para criar um projeto com muitas telas em outras ferramentas, no Figma, era muito mais r·pido, pr·tico e intuitivo. ì Henrique MarÁal / Design
+Me identifiquei muito r√°pido e percebi que todo esfor√£o e tempo que gast√°vamos antes para criar um projeto com muitas telas em outras ferramentas, no Figma, era muito mais r√°pido, pr√°tico e intuitivo. Henrique Mar√ßal / Design
 
-Devido ‡s suas caracterÌsticas, o Figma permite produzir o design em tempo mais curto. J· para a ·rea de TI, o front-end ganha velocidade no entendimento da estrutura para o desenvolvimento. Diego Costa, nosso Gerente de Tecnologia, compartilha:
+Devido √†s suas caracter√≠sticas, o Figma permite produzir o design em tempo mais curto. J√° para a √°rea de TI, o front-end ganha velocidade no entendimento da estrutura para o desenvolvimento. Diego Costa, nosso Gerente de Tecnologia, compartilha:
 
-ìAo pensar em como preencher a lacuna entre Design e Desenvolvimento em uma agÍncia digital, o Figma impacta a criaÁ„o de nossos produtos de forma bem positiva. Asseguramos que a convers„o se pareÁa com os desenhos do Figma fornecidos e discuta todos os aprimoramentos necess·rios.î
+Ao pensar em como preencher a lacuna entre Design e Desenvolvimento em uma ag√™ncia digital, o Figma impacta a cria√ß√£o de nossos produtos de forma bem positiva. Asseguramos que a convers√£o se pare√ßa com os desenhos do Figma fornecidos e discuta todos os aprimoramentos necess√°rios.
 
-TambÈm cria um suporte para fluxos de trabalho de desenvolvimento front-end modernos, como prÈ-processadores CSS ou tarefas Gulp.
+Tamb√©m cria um suporte para fluxos de trabalho de desenvolvimento front-end modernos, como pr√©-processadores CSS ou tarefas Gulp.
 
 ### MULTIDISCIPLINAR
 
-A ferramenta disponibiliza uma interaÁ„o instant‚nea entre os membros da equipe que podem se comunicar na prÛpria tela do projeto ó o que agiliza no dia a dia. Para a ·rea de GerÍncia de Projetos, o Figma traz praticidade.
+A ferramenta disponibiliza uma intera√ß√£o instant√¢nea entre os membros da equipe que podem se comunicar na pr√≥pria tela do projeto √© o que agiliza no dia a dia. Para a √°rea de Ger√™ncia de Projetos, o Figma traz praticidade.
 
-ìA praticidade de poder acessar a ferramenta diretamente do navegador È outro ponto positivo, basta um simples login para ter em m„os todos os projetos que est„o sendo trabalhados, do ponto de vista de gerenciamento de projetos, o overview È bem interessante. ì Nath·lia Machado / GerÍncia de Projetos
+A praticidade de poder acessar a ferramenta diretamente do navegador √© outro ponto positivo, basta um simples login para ter em m√£o s todos os projetos que est√£o sendo trabalhados, do ponto de vista de gerenciamento de projetos, o overview √© bem interessante.  Nath√°lia Machado / Ger√™ncia de Projetos
 
-Com o Figma, pode-se ver as propostas sem se perder entre v·rios arquivos. Tem como opÁ„o a visualizaÁ„o de telas lado a lado ó o que d· uma dimens„o melhor do produto final, por exemplo: conseguimos analisar a home e p·ginas internas na mesma tela.
+Com o Figma, pode-se ver as propostas sem se perder entre v√°rios arquivos. Tem como op√ß√£o a visualiza√ß√£o de telas lado a lado √© o que d√° uma dimens√£o melhor do produto final, por exemplo: conseguimos analisar a home e p√°ginas internas na mesma tela.
 
-Para Natasha, a avaliaÁ„o em tempo real do que est· sendo feito para demandas que exigem mais urgÍncia e troca de ideias È um diferencial.
+Para Natasha, a avalia√ß√£o em tempo real do que est√° sendo feito para demandas que exigem mais urg√™ncia e troca de ideias √© um diferencial.
 
-ìPossibilita, ao realizar uma reuni„o com o cliente, dar a dimens„o em tempo real de alguns pontos forma r·pida, por exemplo: como seria ao trocar uma imagem ou a cor de um elemento.î
+Possibilita, ao realizar uma reuni√£o com o cliente, dar a dimens√£o em tempo real de alguns pontos forma r√°pida, por exemplo: como seria ao trocar uma imagem ou a cor de um elemento.
 
-A validaÁ„o do projeto e revis„o de textos tambÈm s„o bem mais pr·ticas por causa da navegaÁ„o, opÁıes de zoom etc.
+A valida√ß√£o do projeto e revis√£o de textos tamb√©m s√£o bem mais pr√°ticas por causa da navega√ß√£o , op√ß√µes de zoom etc.
 
-ìA ideia de um fluxo de trabalho colaborativo tem influenciado um produto apÛs o outro e demonstrado com sucesso que È divertido e ˙til para processos. ì Diego Costa / Tecnologia
+A ideia de um fluxo de trabalho colaborativo tem influenciado um produto ap√≥s o outro e demonstrado com sucesso que √© divertido e √∫til para processos. Diego Costa / Tecnologia
 
 ### MELHORIAS
 
-Nath·lia e Henrique pontuam que, dependendo do tamanho e complexidade do layout, um ponto negativo È que a ferramenta pode travar, principalmente em computadores com configuraÁıes mais b·sicas.
+Nath√°lia e Henrique pontuam que, dependendo do tamanho e complexidade do layout, um ponto negativo √© que a ferramenta pode travar, principalmente em computadores com configura√ß√µes mais b√°sicas.
 
-ìNo geral, È uma Ûtima ferramenta com um potencial incrÌvel. E que acho que ainda vai dar muito o que falar dentro mercado digital. Um ponto a melhorar: ao trabalhar com diversas telas e com muitas imagens muito grandes, fica bem mais lento, mas nada que n„o tenha uma soluÁ„o para isso.î Henrique / Design
+No geral, √© uma √≥tima ferramenta com um potencial incr√≠vel. E que acho que ainda vai dar muito o que falar dentro mercado digital. Um ponto a melhorar: ao trabalhar com diversas telas e com muitas imagens muito grandes, fica bem mais lento, mas nada que n√£o tenha uma solu√ß√£o para isso.
 
-[Artgo original]ß(https://medium.com/@Sirius_/figma-uma-nova-ferramenta-para-design-de-interface-que-est%C3%A1-ganhando-o-mercado-sirius-interativa-2e78e0905b44)
+[Artgo original](https://medium.com/@Sirius_/figma-uma-nova-ferramenta-para-design-de-interface-que-est%C3%A1-ganhando-o-mercado-sirius-interativa-2e78e0905b44)

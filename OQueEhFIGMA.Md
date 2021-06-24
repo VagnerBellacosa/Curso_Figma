@@ -1,13 +1,13 @@
 # FIGMA
 
 ## O que é o Figma e por que usar ele?
-##### Rubens Flinco Rubens Flinco 
+##### Rubens Flinco 
 
 ### Sumário	
 
 O Figma, para quem não conhece, é uma ferramenta de design colaborativa e online. Por ser uma aplicação web, não há necessidade de download, instalação e muito menos de atualização. Seu trabalho é salvo automaticamente na nuvem e um link é gerado para cada projeto de forma simples, leve e fluída.
 
-Sabe quando você precisa compartilhar aquele seu projeto com seu clientes, para ele ver o andamento mas não quer exportar em PDF ou outros tipos de arquivo?, então o Figma acaba com esse tipo de coisa pois a qualquer momento você consegue compartilhar o resultado do seu projeto em modo de apresentação através do link gerado.
+Sabe quando você precisa compartilhar aquele seu projeto com seu clientes, para ele ver o andamento mas não quer exportar em PDF ou outros tipos de arquivo? Então o Figma acaba com esse tipo de coisa pois a qualquer momento você consegue compartilhar o resultado do seu projeto em modo de apresentação através do link gerado.
 
 ### Mas para que preciso tanto usar o Figma?
 
@@ -24,8 +24,8 @@ Um dos bons motivos é por que diferente dos concorrentes como Adobe XD, Figma po
 
 ### Como consigo acessar o Figma?
 
-Acesse o site https://www.figma.com, faça seu cadastro e descubra as ferramentas do Figma.Ah eu tenho aqui também um ótimo vídeo que pode te ajudar a aprender a mexer no Figma.
- 
+Acesse o site https://www.figma.com, faça seu cadastro e descubra as ferramentas do Figma. 
+
 Bom por hoje é isso espero que eu tenha despertado em você leitor a curiosidade de aprender essa ferramenta ainda mais, tenho certeza que ela pode ajudar você Designer, UI, UX, etc.. a melhor ainda mais seus projetos de Interfaces.
 
 Veja mais conteúdos como esses gratuitamente com mais qualidade em meu blog acesse: https://rf.fdoma.in/blog-designe-ads
@@ -48,6 +48,6 @@ Veja mais conteúdos como esses gratuitamente com mais qualidade em meu blog aces
 	Ambos os aplicativos têm versões gratuitas totalmente funcionais — tornando a barreira de entrada para novos usuários muito menor. O XD tem versões para Mac e Windows, enquanto o Figma suporta Mac, Windows, Linux e Chrome OS — praticamente qualquer sistema operacional no qual um navegador moderno moderno pode ser instalado e executado.
 
 6 -Como criar um Protótipos de aplicativos Como usar Figma? design ux figma Front-End O que é o Figma? Por que usar Figma? Protótipos de aplicativos mobile ui ux
-	 CompartilharFacebook Twitter Linkedin Pinterest Reddit
 
 [Artigo original](https://designe.com.br/o-que-e-o-figma-e-por-que-usar-ele/)
+
